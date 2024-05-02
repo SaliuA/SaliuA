@@ -1,7 +1,6 @@
 # Hi, I'm Abdulazeez Saliu! 👋
 
-I am a passionate Data Scientist with a background in Civil engineering pursuing a Data science diploma at AltSchool Africa, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of Data science, exploring new ideas, and sharing my insights with the community.
-
+I am a Data scientist with a background in Civil Engineering, I am currently immersing myself in the fascinating field of Data Science and machin learning as a student at AltSchool Africa. My passion for technology and writing fuels my journey. I am committed to exploring innovative ideas in Data Science and sharing my discoveries with the wider community.
 ![SaliuA's Stats](https://github-readme-stats.vercel.app/api?username=SaliuA&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
@@ -12,7 +11,7 @@ I am a passionate Data Scientist with a background in Civil engineering pursuing
 
 ## My Articles
 - [Customer Segmentation](https://medium.com/@podosci47/unlocking-consumer-secrets-an-in-depth-data-analysis-of-shopsmart-customer-behavior-02e047033d10)
-- [Performing statistical analysis on the number of goals scored in soccer, categorized by gender](https://medium.com/@podosci47/goal-galore-a-statistical-showdown-of-mens-vs-women-s-international-soccer-b1f6c9dece9a)
+- [Soccer Goals: A Statistical Analysis](https://medium.com/@podosci47/goal-galore-a-statistical-showdown-of-mens-vs-women-s-international-soccer-b1f6c9dece9a)
 
 
 ## Tech Stack
@@ -20,9 +19,10 @@ I am a passionate Data Scientist with a background in Civil engineering pursuing
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Data Science / Machine learning 
+- 🚀 Learning Data Science / Machine learning
+  - Exploring in-depth Exploratory Data Analysis for actionable data insights
   - Exploring the ins and outs of machine learning for dynamic model deployment.
-  - Navigating through the world of unsurpavised learning.
+  - Navigating through the world of unsupervised learning.
   - Building machine learning models with tensor flow module.
 
  ## 🏆 Achievements
@@ -32,7 +32,10 @@ I am a passionate Data Scientist with a background in Civil engineering pursuing
 
 
 ## 📬 Get in Touch
-
+- Connect with me on <a href="https://twitter.com/Podosci" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+ </a>
+ </a>
 - Connect with me on [Twitter](https://twitter.com/Podosci)
 - Connect with me on [linkedin](https://www.linkedin.com/in/abdulazeez-saliu-b37679b0/)
 - Read more of my articles on [medium](https://medium.com/@podosci47)
