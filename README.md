@@ -6,12 +6,12 @@ I am a Data scientist with a background in Civil Engineering, I am currently imm
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Data Science Diploma at Altschool Africa.
-- 📝 I write in-depth, long-form articles on [medium](https://medium.com/@podosci47), accumulating views and comments.
+- 📝 I write in-depth, long-form articles on [medium](https://medium.com/@SaliuA), accumulating views and comments.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [Customer Segmentation](https://medium.com/@podosci47/unlocking-consumer-secrets-an-in-depth-data-analysis-of-shopsmart-customer-behavior-02e047033d10)
-- [Soccer Goals: A Statistical Analysis](https://medium.com/@podosci47/goal-galore-a-statistical-showdown-of-mens-vs-women-s-international-soccer-b1f6c9dece9a)
+- [Customer Segmentation](https://medium.com/@SaliuA/unlocking-consumer-secrets-an-in-depth-data-analysis-of-shopsmart-customer-behavior-02e047033d10)
+- [Soccer Goals: A Statistical Analysis](https://medium.com/@SaliuA/goal-galore-a-statistical-showdown-of-mens-vs-women-s-international-soccer-b1f6c9dece9a)
 
 
 ## Tech Stack
@@ -48,7 +48,7 @@ I am a Data scientist with a background in Civil Engineering, I am currently imm
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
 
-- Read more of my articles on <a href="https://medium.com/@podosci47" target="_blank">
+- Read more of my articles on <a href="https://medium.com/@SaliuA" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
  </a>
 
