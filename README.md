@@ -7,7 +7,6 @@ I am a Data scientist with a background in Civil Engineering, I am currently imm
 
 - 🔭 I'm currently pursuing my Data Science Diploma at Altschool Africa.
 - 📝 I write in-depth, long-form articles on [medium](https://medium.com/@SaliuA), accumulating views and comments.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
 - [Customer Segmentation](https://medium.com/@SaliuA/unlocking-consumer-secrets-an-in-depth-data-analysis-of-shopsmart-customer-behavior-02e047033d10)
